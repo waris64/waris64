@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Blogging Website Project. <br>👯 I’m looking to collaborate on FrontEnd Development projects.<br>🤝 I’m looking for help with ReactJs . <br>🌱 I’m currently learning NextJs.<br>💬 Ask me about Frontend .
-
+🔭 I’m currently working on Blogging Website Project in Nextjs. <br>👯 I’m looking to collaborate on OpenSource Development projects . <br>🌱 I’m currently learning NextJs.<br>💬 Ask me about JavaScript.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mali_kwaris) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadWarisSaleh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14856130) 
