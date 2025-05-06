@@ -28,7 +28,7 @@ I'm a full stack developer with a sharp eye for both backend logic and frontend 
 
  📫 Let’s Connect
 - GitHub: [github.com/waris64](https://github.com/waris64)
-- LinkedIn: [linkedin.com/in/muhammad-waris-saleh]
+- LinkedIn: [linkedin.com/in/muhammad-waris-saleh(https://www.linkedin.com/in/muhammad-waris-saleh/)]
 
 
 > “Code should solve problems, not create them. Keep it lean, keep it loud.”
